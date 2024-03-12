@@ -1,0 +1,40 @@
+div{
+    text-align: center;
+}
+#primeiro{
+    background-color: red;
+    margin-right: 1500px;
+}
+#segundo{
+    background-color: orange;
+    margin-left: 100px;
+    margin-right: 1200px
+}
+#terceiro{
+    background-color: yellow;
+    margin-left: 200px;
+    margin-right: 1100px
+}
+#quarto{
+    background-color: green;
+    margin-left: 300px;
+    margin-right: 950px
+}
+#quinto{
+    background-color: violet;
+    margin-left: 400px;
+    margin-right: 800px
+}
+#sexto{
+    background-color: blue;
+    margin-left: 500px;
+    margin-right: 700px
+}
+#setimo{
+    background-color: blueviolet;
+    margin-left: 600px;
+    margin-right: 500px
+}
+#img1{
+    margin-left: 50px;
+}
